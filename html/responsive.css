@@ -1,0 +1,11 @@
+@media(max-width:480px)
+{
+    .top{display:none;}
+    .container{padding:10px;}
+    nav ul{display: none !important;}
+    nav span{display:block;}
+    .banner-text{max-width:90%;}
+    .tour .flex, footer.flex{flex-direction: column;}
+    .box{width:90%;}
+    .fbox1, .fbox{flex-basis: auto;}
+}
